@@ -18,7 +18,7 @@
 # Table structure for table univs
 #
 
-CREATE TABLE `univs` (
+CREATE TABLE `universities` (
   `id` int(11) NOT NULL auto_increment,
   `name` varchar(255) default NULL,
   `pid` int(11) default NULL,
